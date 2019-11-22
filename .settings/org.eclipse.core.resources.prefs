@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/controleur/DataCentral.java=UTF-8
+encoding//src/controleur/TCP/CentralClient.java=UTF-8
+encoding//src/controleur/TCP/CentralServerAccept.java=UTF-8
+encoding//src/controleur/Tables/EmployeesTable.java=UTF-8
+encoding//src/mains/Central.java=UTF-8
+encoding//src/mains/TimeTracker.java=UTF-8
+encoding//src/modele/Actors/Employee.java=UTF-8
+encoding//src/modele/Parameters.java=UTF-8
+encoding//src/modele/TimeRelated/WorkingDay.java=UTF-8
+encoding//src/vue/CentralInterface.java=UTF-8
+encoding//src/vue/TimeTrackerInterface.java=UTF-8
